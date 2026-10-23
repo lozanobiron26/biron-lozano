@@ -13,7 +13,7 @@ export default function Page() {
               <span>Personal calling card</span>
             </div>
             <div className="relative mt-16">
-              <p className="mb-5 text-sm font-medium uppercase tracking-[0.22em] text-sky-200">Senior Software Engineer</p>
+              <p className="mb-5 text-sm font-medium tracking-[-0.02em] text-sky-200">Full-Stack Software Engineer | AI Integrations & Automation</p>
               <h1 className="max-w-md text-5xl font-semibold tracking-[-0.055em] text-white sm:text-6xl">Biron Lozano</h1>
               <div className="mt-7 h-px w-16 bg-sky-300/70" />
               <p className="mt-6 max-w-sm text-base leading-7 text-primary-foreground/75">Full-stack development, AI integrations, and workflow automation.</p>
